@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of mb-components
+ */
+export * from './lib/mb-components.service';
+export * from './lib/mb-components.component';
+export * from './lib/mb-components.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIuLi8uLi8uLi9wcm9qZWN0cy9tYi1jb21wb25lbnRzL3NyYy8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDZCQUE2QixDQUFDO0FBQzVDLGNBQWMsK0JBQStCLENBQUM7QUFDOUMsY0FBYyw0QkFBNEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbWItY29tcG9uZW50c1xuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL21iLWNvbXBvbmVudHMuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tYi1jb21wb25lbnRzLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tYi1jb21wb25lbnRzLm1vZHVsZSc7XG4iXX0=

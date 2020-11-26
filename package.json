@@ -1,0 +1,19 @@
+{
+  "name": "mb-components",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.0.1",
+    "@angular/core": "^11.0.1"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/mb-components.umd.js",
+  "module": "fesm2015/mb-components.js",
+  "es2015": "fesm2015/mb-components.js",
+  "esm2015": "esm2015/mb-components.js",
+  "fesm2015": "fesm2015/mb-components.js",
+  "typings": "mb-components.d.ts",
+  "metadata": "mb-components.metadata.json",
+  "sideEffects": false
+}
