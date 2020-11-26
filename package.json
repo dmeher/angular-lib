@@ -1,6 +1,6 @@
 {
-  "name": "mb-components",
-  "version": "0.0.1",
+  "name": "mb-components-ng",
+  "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^11.0.1",
     "@angular/core": "^11.0.1"
@@ -15,5 +15,29 @@
   "fesm2015": "fesm2015/mb-components.js",
   "typings": "mb-components.d.ts",
   "metadata": "mb-components.metadata.json",
-  "sideEffects": false
+  "sideEffects": false,
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "Angular UI Components"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmeher/angular-lib.git"
+  },
+  "keywords": [
+    "angular",
+    "components",
+    "angular",
+    "ui"
+  ],
+  "author": "Debendra Meher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmeher/angular-lib/issues"
+  },
+  "homepage": "https://github.com/dmeher/angular-lib#readme",
+  "devDependencies": {}
 }
