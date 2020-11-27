@@ -21,7 +21,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "Angular UI Components"
+    "test": "Angular UI Components",
+    "postinstall": "ngcc"
   },
   "repository": {
     "type": "git",
